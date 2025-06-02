@@ -1,5 +1,5 @@
 {
-  "name": "ALPHA-MD",
+  "name": "TUNDE-MD",
   "description": "Alpha is a multidevice WhatsApp bot built to make your WhatsApp enjoyable.",
   "keywords": [
     "bot",
@@ -7,7 +7,7 @@
     "baileys",
     "whatsapp"
   ],
-  "logo": "https://telegra.ph/file/b148f6ed21fa02ac5325b.jpg",
+  "logo": "",
   "repository": "https://github.com/Keithkeizzah/ALPHA-MD",
   "success_url": "/",
   "stack": "container",
@@ -25,12 +25,12 @@
     
     "ANTICALL_MSG": {
       "description": "Type your anticall message to always send when calls are declined. You can leave it blank",
-      "value": "This is Keith personal assistant kindly leave a message",
+      "value": "This is tunde personal assistant kindly leave a message",
       "required": false
     },
     "BOT_NAME": {
       "description": "You must give a name for your bot",
-      "value": "",
+      "value": "ogunwole",
       "required": false
     },
     "TIMEZONE": {
@@ -45,12 +45,12 @@
     },
     "SESSION_ID": {
       "description": "Enter your session ID, the code you receive after scanning the QR code",
-      "value": "",
+      "value": "ALPHA;;;H4sIAAAAAAAAA61U246jRhD9l361tQZzMVgaKdyMuRhsA75FeeiBxvSYm6GxjVd+zz/lZ/IpEbYnO9ImuxMpb011c+rUqVP1FeQFrpGFWjD+CsoKnyBB3ZG0JQJjIDdxjCrQBxEkEIwBNVMtZud4G90qeqQYsvbVuRI+SE6uaXKiGjSS3RoWngb1C7j1Qdm8pjj8AWDPWo4m7VFRnYkqm6EvLgRqrtKnN+a4mbvJthcUcHjChbGiXsCtQ4S4wvleKxOUoQqmFmrnEFefoy9Ny7nhnLa0Va5L2hxN0cJWTIgVyp4NqsXopNHmSLRX1VT6HH36YOvD05TaUj20iXfRQp+Vx92VHkg1fYmStrdMG9Pdbv2N9KBf432OIiNCOcGk/bTuupZE/Nw2m5pVajzzl6KerGX/4E9XfJIWzP5wSfXdpewx7OeIcyet96q7oXtplxIlZqlD5ju7NN4m+6nMeDuN184n3WqbRf2R+Lx698rhv+guWAotREg6so1mTvai91b7VpjtB7o3c/JSO7r8Yv7me7YmfI6+6OyGGzqdTCd+1WxVO6hol7Cy627yOc3QsnkK403bcvz6A31ImupHLBeCijiS0bZ/VPhlKaTc9mD48rqqud0wWC8cyl0FhHa95YVpDuZ1N5XPoSmZb0cvtkhyyOTZ2motLMiFOWgGOWdc39TFy72iA2qNCIzpWx9UaI9rUkGCi/weY0d9AKOTh8IKkbu8YDBVgtCZlsM03l4c5SDBAtqb/PW1l9LJuXCXghz4u9hcUtoL6IOyKkJU1yia4poUVTtDdQ33qAbjX++d6oquUFYQZOIIjMGQYUWapwVe4Hjul/rLOYGkhmX5JUcE9EFcFdkMgTGpGtQH9z8YiRlSPMvynEwPZZYWxZHc1ZU9Mvk4QzWBWQnG9IgVBIbiKerW/9+S0xKtKupIojVBk4cqr2k/SS7cfuuDHF3Iw7GdzjzdBzGuahLkTZkWMHq38/slDMOiyYnX5qHSHVAFxh/CiBCc7+uunCaHVZjgE1I67mAcw7RGf7cWVSh65/9cV0oRdY7bbu3VkhmJoOPeAX0vyFikvtckfcgg0Aw35PnhSOQ4sXvYxfsghx0Y+POP3ztRnnQ79AgRiNMajIFiQeZUSJbmZp4403RdCveSspfAt/LeB+RhwOXmzJiVeLZSgyty9ngt8qV6YbTAjEzim/WqkgWi+9RKP7/8AwgYAyNs1DhfOxlnDn1mgcXroN555+PlYPgeLOrSY3azrUJfj0WPCQM8fc226uooTEbkst4HVbO+7tDW4RJhjaoDXMPJAuH9S5ctQiccoo/JsqsdT1panGyseN0yBt1L8Do4ewWnG0EZuCqKbWeLtumJHThrhxUuirNmIc3R8Zz33ha8y1PnWbJPfRWn5oDVS8OXnqN7Xx3pc2Xj51Dh+2eM0X0DPjvw80Y+mHeGo279DyDPpfovi0kOVoLTwkGolJ4LzZ5V8ya1EKLLRNl4r0H7OoHn2F4exMmyBrfO+WUKSVxUGRgDXCZFjkAfVEXTGdjI4+IHuRTJMBTpUXkKayJ9G4rv54wTmMereVWUU1gnnQg6K2VN5/BWKkuPQPI+Y0CaLCTJ0kfg9hc8gPX+eAgAAA==",
       "required": true
     },
     "OWNER_NAME": {
       "description": "Insert your name here",
-      "value": "",
+      "value": "Tundex",
       "required": false
     },
     "URL": {
